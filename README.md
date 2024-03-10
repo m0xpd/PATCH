@@ -11,7 +11,7 @@ The minimum order quantity at [JLC](https://jlcpcb.com/) for the front panel and
 
 The system is described in the hardware folder, where schematics, PCB layouts and front panel designs are presented.
 
-PATCH is published under CC BY-SA 4.0 license.
+PATCH is published under [CC BY-SA 4.0 license.](https://github.com/m0xpd/PATCH/blob/main/LICENSE.txt)
 
 
 
