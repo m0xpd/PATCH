@@ -1,0 +1,26 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 61168686-3d37-489e-b698-e4023b34db33)
+
+  (paper "A4")
+
+  (title_block
+    (title "m0xpd PATCH Front Panel")
+    (comment 1 "Published under CC BY-SA 4.0 License")
+    (comment 2 "See: https://github.com/m0xpd/PATCH/")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "             Intentionally Blank -\nthe front panel has no electrical connections!"
+    (at 71.247 99.949 0)
+    (effects (font (size 4 4)) (justify left bottom))
+    (uuid 0f5d1ca1-a345-41f0-9142-c1ae56bce67e)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
