@@ -13,7 +13,7 @@ The passive board includes pi networks between the 3.5mm jack sockets at input a
 
 Populating the pads is up to you - I'm using a 15k / 1k potential divider for the -24dB and 3k3 / 1k1 potential divider for the -12dB. 
 
-The Passive board, which makes up PATCH's standard patchbay configuration, houses a set of 3.5mm sockets which face to the rear, mirroring thos on the front panel. Standard Eurorack patch leads (or other leads made up for custom applications, such as the 3.5 mm to 6.5mm right angle jacks I've made to hook up to the back of my FX2000) connect to these sockets:
+The Passive board, which makes up PATCH's standard patchbay configuration, houses a set of 3.5mm sockets which face to the rear, mirroring those on the front panel. Standard Eurorack patch leads (or other leads made up for custom applications, such as the 3.5 mm to 6.5mm right angle jacks I've made to hook up to the back of my FX2000) connect to these sockets, when the patchbay is used in the moular:
 
 <p width=100%, align="center">
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patching%20in%20the%20Modular.jpg">
