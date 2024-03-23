@@ -23,7 +23,7 @@ A PATCH buffered multiple is seen below:
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Buffered%20Mult%20Side.jpg">
 </p>
 
-The system is described in the hardware folder, where schematics, PCB layouts and front panel designs are presented.
+The system is described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented.
 
 There may be more additions to the PATCH system in future - watch this space.
 
