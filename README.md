@@ -13,6 +13,11 @@ The passive board includes pi networks between the 3.5mm jack sockets at input a
 
 The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb houses) for the front panel and socket board left me with some spare resources after I'd finished my interface to the Behringer "off-board" units, so I also develped a passive multiple board, and a buffered multiple board, so as not to waste the relatively expensive front panels. These share the front panel and the socket board, but use a different final board. The complete set of PATCH system panels are seen below.
 
+<p width=100%, align="center">
+<img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patch%20Elements.jpg">
+</p>
+
+A PATCH buffered multiple is seen below:
 
 
 The system is described in the hardware folder, where schematics, PCB layouts and front panel designs are presented.
