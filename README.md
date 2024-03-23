@@ -21,8 +21,6 @@ The Passive board, which makes up PATCH's standard patchbay configuration, house
 
 ***
 
-## Multiples
-
 The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb houses) for the front panel and socket board left me with some spare resources after I'd finished my interface to the Behringer "off-board" units, so I also develped a passive multiple board, and a buffered multiple board, so as not to waste the relatively expensive Aluminium front panels. These multiples share the front panel and the socket board with the basic patchbay design, but use a different final board. The complete set of PATCH system panels are seen below.
 
 <p width=100%, align="center">
