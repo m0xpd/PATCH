@@ -21,13 +21,17 @@ The Passive board, which makes up PATCH's standard patchbay configuration, house
 
 ***
 
-The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb houses) for the front panel and socket board left me with some spare resources after I'd finished my interface to the Behringer "off-board" units, so I also develped a passive multiple board, and a buffered multiple board, so as not to waste the relatively expensive Aluminium front panels. These multiples share the front panel and the socket board with the basic patchbay design, but use a different final board. The complete set of PATCH system panels are seen below.
+The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb houses) for the front panel and socket board left me with some spare resources after I'd finished my interface to the Behringer "off-board" units, so I also develped a passive multiple board, and a buffered multiple board, so as not to waste the relatively expensive Aluminium front panels. 
+
+These multiples share the front panel and the socket board with the basic patchbay design, but use a different final board. 
+
+The complete set of PATCH system panels are seen below.
 
 <p width=100%, align="center">
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patch%20Elements.jpg">
 </p>
 
-Both the pasive multiple and the buffered multiple are organised as two 1 in, 2 out sections, with the input to the second section normalled to the output of the first, such that the multiple can be operated as two 1 -> 2 units or one 1 -> 4 unit.
+Both the passive multiple and the buffered multiple are organised as two 1 in, 2 out sections, with the input to the second section normalled to the output of the first, such that the multiple can be operated as two 1 -> 2 units or one 1 -> 4 unit.
 
 A PATCH buffered multiple is seen below:
 
@@ -35,9 +39,11 @@ A PATCH buffered multiple is seen below:
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Buffered%20Mult%20Side.jpg">
 </p>
 
-All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented.
+All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented as KiCad projects.
 
-There may be more additions to the PATCH system in future - watch this space.
+There may be more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other ideas competing for attention, so watch this space, but don't hold your breath.
+
+# License
 
 PATCH is published under [CC BY-SA 4.0 license.](https://github.com/m0xpd/PATCH/blob/main/LICENSE.txt)
 
