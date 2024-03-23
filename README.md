@@ -13,6 +13,12 @@ The passive board includes pi networks between the 3.5mm jack sockets at input a
 
 Populating the pads is up to you - I'm using a 15k / 1k potential divider for the -24dB and 3k3 / 1k1 potential divider for the -12dB. 
 
+The Passive board, which makes up PATCH's standard patchbay configuration, houses a set of 3.5mm sockets which face to the rear, mirroring thos on the front panel. Standard Eurorack patch leads (or other leads made up for custom applications, such as the 3.5 mm to 6.5mm right angle jacks I've made to hook up to the back of my FX2000) connect to these sockets:
+
+<p width=100%, align="center">
+<img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patching%20in%20the%20Modular.jpg">
+</p>
+
 The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb houses) for the front panel and socket board left me with some spare resources after I'd finished my interface to the Behringer "off-board" units, so I also develped a passive multiple board, and a buffered multiple board, so as not to waste the relatively expensive Aluminium front panels. These multiples share the front panel and the socket board with the basic patchbay design, but use a different final board. The complete set of PATCH system panels are seen below.
 
 <p width=100%, align="center">
