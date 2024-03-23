@@ -19,6 +19,9 @@ The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb hou
 
 A PATCH buffered multiple is seen below:
 
+<p width=100%, align="center">
+<img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Buffered%20Mult%20Side.jpg">
+</p>
 
 The system is described in the hardware folder, where schematics, PCB layouts and front panel designs are presented.
 
