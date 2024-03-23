@@ -17,6 +17,8 @@ The minimum order quantity at [JLC](https://jlcpcb.com/) (typical of all pcb hou
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patch%20Elements.jpg">
 </p>
 
+Both the pasive multiple and the buffered multiple are organised as two 1 in, 2 out sections, with the input to the second section normalled to the output of the first, such that the  multiple can be operated as two 1 -> 2 units or one 1 -> 4 unit.
+
 A PATCH buffered multiple is seen below:
 
 <p width=100%, align="center">
