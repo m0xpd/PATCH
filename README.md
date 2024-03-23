@@ -5,7 +5,7 @@ PATCH is a simple modular patchbay project for Eurorack.
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patch%20Perspective.jpg">
 </p>
 
-PATCH started with an application to develop a simple interface to my [UMC1820 Audio Interface](https://www.behringer.com/product.html?modelCode=0805-AAN) and my [FX2000 Effects Processor](https://www.behringer.com/product.html?modelCode=P0A3P), both of which have rear-mounted audio I/O and require some attentuation to allow them to accept modular audio levels. 
+PATCH started with an application to develop a simple interface to my [UMC1820 Audio Interface](https://www.behringer.com/product.html?modelCode=0805-AAN) and my [FX2000 Effects Processor](https://www.behringer.com/product.html?modelCode=P0A3P), both of which have rear-mounted audio I/O and require some attentuation to allow them to accept modular audio levels. A patchbay is the perfect way to impose order on the tangle of wires, to avoid searching on the back of cases (especially if they're stacked or racked) and is also the logical place to implement attenuating pads.
 
 The basic PATCH configuration which services this motivating application, seen in the photo above, is realised by three components: a front panel, a socket board, and a passive board. 
 
@@ -39,7 +39,7 @@ A PATCH buffered multiple is seen below:
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Buffered%20Mult%20Side.jpg">
 </p>
 
-All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented as KiCad projects.
+All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented as [KiCad](https://www.kicad.org/) projects.
 
 There may be more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other ideas competing for attention, so watch this space, but don't hold your breath.
 
