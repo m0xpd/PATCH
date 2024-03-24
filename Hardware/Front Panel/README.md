@@ -6,4 +6,4 @@ Remember that the schematic is 'empty' - the front panel has no electrical conne
 
 The front panel has no labels/annotation, because each instance of the system will be put to different use; you can add labels convenient to your own application if you need to.
 
-I find it convenient at least to use different nuts on the sockets to remind me which are inputs and which are outputs, from which I can remember the configuration of the PATCH module.
+I find it convenient at least to use different nuts (i.e. knurled or hex) on the sockets to remind me which are inputs and which are outputs, from which I can remember the configuration of the PATCH module. If you are less stingy than me, you could even use coloured nuts!
