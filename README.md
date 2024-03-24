@@ -41,9 +41,9 @@ A PATCH buffered multiple is seen below:
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Buffered%20Mult%20Side.jpg">
 </p>
 
-All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/blob/main/Hardware/README.md), where schematics, PCB layouts and front panel designs are presented as [KiCad](https://www.kicad.org/) projects.
+All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/tree/main/Hardware#readme), where schematics, PCB layouts and front panel designs are presented as [KiCad](https://www.kicad.org/) projects.
 
-There may be more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other ideas competing for attention, so watch this space, but don't hold your breath.
+There may be more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other potential projects competing for attention, so watch this space, but don't hold your breath.
 
 # License
 
