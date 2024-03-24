@@ -3,7 +3,7 @@
 This folder contains design files of the "Passive Board" which, in conjunction with the Front Panel and Socket Board, implements a simple six-channel patchbay. 
 The design files are presented as a [KiCad](https://www.kicad.org/) project.
 
-The Passive Board hosts six "Thonkiconn" 3.5mm sockets, which mirror those on the front panel and two 9*1 0.1 inch headers, which mount the Passive Board onto 
+The Passive Board hosts six "[Thonkiconn](https://www.thonk.co.uk/shop/thonkiconn/)" 3.5mm sockets, which mirror those on the front panel and two 9*1 0.1 inch headers, which mount the Passive Board onto 
 the Socket Board. 
 
 A set of 12 positions for 1206 surface mount resistors on the bottom side of the board allow 0 Ohm links to be fitted, which normal the Tips of the sockets 
