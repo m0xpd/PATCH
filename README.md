@@ -7,7 +7,7 @@ PATCH is a simple modular patchbay project for Eurorack.
 
 PATCH started with an application to develop a simple interface to my [UMC1820 Audio Interface](https://www.behringer.com/product.html?modelCode=0805-AAN) and my [FX2000 Effects Processor](https://www.behringer.com/product.html?modelCode=P0A3P), both of which have rear-mounted audio I/O and require some input attentuators to allow them to work as I wish in my system. A patchbay is the perfect way to impose order on the tangle of wires, to avoid searching on the back of cases (especially if they're stacked or racked) and is also the logical place to implement attenuating pads, where required. 
 
-The image below shows two PATCH patchbay modules (inside the yellow rounded rectangle) implementing the complete interfece to the UMC1820 and FX2000
+The image below shows two PATCH patchbay modules (inside the yellow rounded rectangle) implementing the complete interface to the UMC1820 and FX2000
 
 <p width=100%, align="center">
 <img width=40%, src="https://github.com/m0xpd/PATCH/blob/main/Hardware/Images/Patchbay%20in%20Action.png">
