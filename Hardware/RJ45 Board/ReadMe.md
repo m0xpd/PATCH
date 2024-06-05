@@ -21,6 +21,6 @@ combination in the same way as the rest of the PATCH family to make a full modul
 Two of these modules, one at either end of a standard 'network cable', make a useful multicore. In use, with a 1.5m CAT6 cable, I didn't notice any 
 issues of signal loss, crosstalk or hum (etc). But the idea still horrifies me. 
 
-So I decided to exploit the "twisted pair" construction of network cables and build a Twin RJ45 board - to hell with the expense!
+So, I decided to exploit the "twisted pair" construction of network cables and build a Twin RJ45 board, which you can find here - to hell with the expense!
 
-Those who want to stick with a single cable will find the KiCad design files for the single RJ-45 board in this directory - there's a KiCad project, a schematic and a PCB file.
+Those who want to stick with a single cable will find the KiCad design files for the single RJ-45 board in this folder - there's a KiCad project, a schematic and a PCB file.
