@@ -1,7 +1,7 @@
 # PATCH Twin RJ45 Board
 
 This folder contains details of a Twin RJ45 board, which allows the Patch system to use two CAT5 (or better) cables to provide a six channel link 
-between two locations in large a modular case. This idea was propted by a suggestion made in response to the initial Patch system by "CoogLFish" - 
+between two locations in large a modular case. This idea was propted by a suggestion made in response to the initial PATCH system by "CoogLFish" - 
 to whom I am grateful. 
 
 The Twin RJ45 board is seen below in populated and unpopulated form:
