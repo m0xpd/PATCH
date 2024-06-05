@@ -9,8 +9,7 @@ The RJ45 board is seen below in populated and unpopulated form:
 </p>
 
 
-The signals from all six sockets on the Patch socket board are passed down six of the conductors of the RJ45 cable. This idea horrifies the engineer in me, but it must work well enough, as 7 such signals are passed down the same type of cable in [this commercial solution](https://www.doepfer.de/A1809.htm) 
-- if it's good enough for Dieter!
+The signals from all six sockets on the Patch socket board are passed down six of the conductors of the RJ45 cable. This idea horrifies the engineer in me, but it must work well enough, as 7 such signals are passed down the same type of cable in [this commercial solution](https://www.doepfer.de/A1809.htm) - if it's good enough for Dieter!
 
 The RJ-45 board plugs onto the back of a [Front Panel](https://github.com/m0xpd/PATCH/tree/main/Hardware/Front%20Panel#readme) / [socket board](https://github.com/m0xpd/PATCH/tree/main/Hardware/Socket%20Board#readme) 
 combination in the same way as the rest of the PATCH family to make a full module:
