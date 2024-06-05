@@ -49,6 +49,8 @@ A PATCH buffered multiple is seen below:
 
 All the system components are described in the [hardware folder](https://github.com/m0xpd/PATCH/tree/main/Hardware#readme), where schematics, PCB layouts and front panel designs are presented as [KiCad](https://www.kicad.org/) projects.
 
+# PATCH Multicore
+
 The PATCH system now also has a multicore option, realised by a pair of boards. These (which were first suggested by "CoogLFish", whose inspiration is acknowledged) are offered in two forms. First, the ["low budget" option uses a single CAT5 cable to join two modules to make a six channel multicore](https://github.com/m0xpd/PATCH/tree/main/Hardware/RJ45%20Board#readme). The ["high end" alternative](https://github.com/m0xpd/PATCH/tree/main/Hardware/Twin%20RJ45%20Board#readme) uses two CAT5 (or better) cables to achieve the same goal with the possibility of slightly better crosstalk performance.
 
 There may be still more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other potential projects competing for attention, so watch this space, but don't hold your breath.
