@@ -1,4 +1,4 @@
-# Patch RJ45 Board
+# PATCH RJ45 Board
 
 This folder contains details of a RJ45 board, which allows the Patch system to use a CAT5 cable to provide a six channel link between two locations 
 in large a modular case. This idea was propted by a suggestion made in response to the initial Patch system by "CoogLFish" - to whom I am grateful. 
