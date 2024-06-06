@@ -51,7 +51,11 @@ All the system components are described in the [hardware folder](https://github.
 
 # PATCH Multicore
 
-The PATCH system now also has a multicore option, realised by a pair of boards. These (which were first suggested by "CoogLFish", whose inspiration is acknowledged) are offered in two forms. First, the ["low budget" option uses a single CAT5 cable to join two modules to make a six channel multicore](https://github.com/m0xpd/PATCH/tree/main/Hardware/RJ45%20Board#readme). The ["high end" alternative](https://github.com/m0xpd/PATCH/tree/main/Hardware/Twin%20RJ45%20Board#readme) uses two CAT5 (or better) cables to achieve the same goal with the possibility of slightly better crosstalk performance.
+The PATCH system now (as at 5 June 2024) also has a multicore option, realised by a pair of boards. The multicore functionality was first suggested by "CoogLFish", within the "Issues" section of this repo and whose inspiration is acknowledged.
+
+The boards are offered in two forms. First, the ["low budget"](https://github.com/m0xpd/PATCH/tree/main/Hardware/RJ45%20Board#readme) option uses a single UTP cable to join two modules to make a six channel multicore]. Second, the ["high end" alternative](https://github.com/m0xpd/PATCH/tree/main/Hardware/Twin%20RJ45%20Board#readme) uses two UTP cables to achieve the same goal with the possibility of slightly better crosstalk performance. This "Twin" system will also work with cables with shielded twisted pairs such as CAT8 and offer some performance advantages - but I have not yet formally tested this to determine how big the performance advantage (over either the single cable solution or UTP cables) really is. I use CAT6 cables over 1.5m and have not yet noticed issues.
+
+# Other PATCH System Components
 
 There may be still more additions to the PATCH system in future - I have a couple more ideas, but there are lots of other potential projects competing for attention, so watch this space, but don't hold your breath.
 
